@@ -1,2 +1,6 @@
 #Ignore .doc
 *.doc*
+/MyProject/nbproject/private/
+/MyProject
+#except .java
+!MyProject/src/myproject/
