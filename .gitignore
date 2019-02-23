@@ -2,4 +2,4 @@
 *.doc*
 MyProject/
 #except .java
-!MyProject/src/myproject/
+!MyProject/src/myproject/MyProject.java
