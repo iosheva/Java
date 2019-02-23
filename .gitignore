@@ -1,3 +1,5 @@
 #Ignore .doc
 #except .java
 *.doc*
+MyProject/**/.xml
+MyProject/**/.mf
